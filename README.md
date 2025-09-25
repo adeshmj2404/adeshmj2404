@@ -42,9 +42,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adesh%20jadhav-1b892b265)  
-- 💻 [GitHub](https://github.com/adeshmj2404)  
-- 📧 Email: **adeshjadhav894@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adesh-jadhav-1b892b265/)    
+- 📧 Email: **adeshjadhav894@gmail.com**
 
 ---
 
