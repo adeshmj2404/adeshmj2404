@@ -42,7 +42,6 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adesh-jadhav-1b892b265/)    
 - 📧 Email: **adeshjadhav894@gmail.com**
 
 ---
